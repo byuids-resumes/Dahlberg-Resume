@@ -16,27 +16,25 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+`Expected December 2023`
+
+- Bachelor of Sciences - Applied Technology
+
 
 
 ## Related Experience
 
-### Internships
+### Certifications
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Programming Certificate earned April 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Gained a foundation of programming
+- Used Python to develop projects
+- Collaborated with teams across the United States
 
 ### Data Science Lead
 
@@ -71,14 +69,10 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Service 
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2021-Present`
+__Primary Counselor__, San Diego, CA
 
 
 
