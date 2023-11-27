@@ -1,83 +1,60 @@
----
-layout: cv
-title: Ashley Dahlberg's Resume
----
-# Ashley Dahlberg
-Aspiring Programmer
+# md-resume
 
-<div id="webaddress">
-<a href="dah20006@byui.edu">dah20006@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/dahlbergAH">LinkedIn</a>
-| <a href="https://dahlbergah.github.io/Dahlberg-Resume/">GitHub</a>
-</div>
+A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-## Education
+***
 
-`2020-2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Customization
 
-`Expected December 2023`
+Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
-- Bachelor of Sciences - Applied Technology
-- Programming Certificate July 2022
-- Database Certificate December 2023
-- Web Design and Development Certificate December 2023
+![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
+and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-## Related Experience
+![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-### Certificate - Earned
+adding your skills, jobs and education.
 
-`Programming Certificate earned July 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
+![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-- Gained a foundation of programming
-- Used Python to develop projects
-- Collaborated with teams across the United States
+## Distribution
 
-### Certificates and Degree in Progress
+To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
 
-`Bachelor of Science - Applied Technology Expected December 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+### I. Use Github Pages to publish it online
 
-- gained programming and web development skills
-- collaborated with colleagues worldwide
-- gained a greater appreciation for the continuing technological advancements 
+1. Edit or move your resume to the `index.md` file in the `docs` folder.
+2. Go to settings > GitHub pages to make the changes shown.
 
-`Database Certificate expected to earn December 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+![](docs_setup.png)
 
-- Primarily worked with SQL
-- Able to derive insights and identify trends 
-- Learned about designing data warehousing and architecture
+3. Head to *yourusername*.github.io/mdresume to see your resume live.
 
+Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
 
-`Web Design and Development expected to earn December 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Styling
 
-- Continued working with HTML, CSS, JavaScript, and used PHP
-- Used best practices to design the Front End of a website 
-- Used best practices to build a web page from the Back End
+The included CSS will render your CV in two styles:
+s
+1. `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned.
 
+To change the default style, simply change the variable in the
+`_config.yml` file.
 
-`AWS - Cloud Architect Expected Feb 2024`
-__AWS Cloud Services__
+Any other styling is possible. More CSS style contributions and forks are welcome!
 
-- Continuing to learn about cloud services 
-- working on understanding the needs of the client and how best to meet those needs
-- continuing to marvel in the scope of AWS 
+### Author
 
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
-## Service 
+![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
-`2021-Present`
-__Primary Counselor__, San Diego, CA
+### License
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
