@@ -19,9 +19,7 @@ Aspiring Programmer
 `2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-`Expected December 2023`
-
-- Bachelor of Sciences - Applied Technology
+- Bachelor of Sciences - Applied Technology December 2023
 - Programming Certificate July 2022
 - Database Certificate December 2023
 - Web Design and Development Certificate December 2023
@@ -31,7 +29,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Certificate - Earned
 
-`Programming Certificate earned July 2022`
+`Programming Certificate`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Gained a foundation of programming
@@ -40,14 +38,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Certificates and Degree in Progress
 
-`Bachelor of Science - Applied Technology Expected December 2023`
+`Bachelor of Science - Applied Technology`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- gained programming and web development skills
-- collaborated with colleagues worldwide
-- gained a greater appreciation for the continuing technological advancements 
+- Gained programming and web development skills (capitalize these bullet points to match the others)
+- Collaborated with colleagues worldwide
+- Gained a greater appreciation for the continuing technological advancements 
 
-`Database Certificate expected to earn December 2023`
+`Database Certificate`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Primarily worked with SQL
@@ -55,7 +53,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Learned about designing data warehousing and architecture
 
 
-`Web Design and Development expected to earn December 2023`
+`Web Design and Development`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Continued working with HTML, CSS, JavaScript, and used PHP
@@ -67,8 +65,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __AWS Cloud Services__
 
 - Continuing to learn about cloud services 
-- working on understanding the needs of the client and how best to meet those needs
-- continuing to marvel in the scope of AWS 
+- Working on understanding the needs of the client and how best to meet those needs
+- Continuing to marvel in the scope of AWS 
 
 
 ## Service 
