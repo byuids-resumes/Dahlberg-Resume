@@ -31,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Certificate - Earned
 
-`Programming Certificate earned July 2022`
+`Programming Certificate earned (Don't need this here because you have earned above) July 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Gained a foundation of programming
@@ -43,11 +43,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Bachelor of Science - Applied Technology Expected December 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- gained programming and web development skills
+- gained programming and web development skills (capitalize these bullet points to match the others)
 - collaborated with colleagues worldwide
 - gained a greater appreciation for the continuing technological advancements 
 
-`Database Certificate expected to earn December 2023`
+`Database Certificate expected to earn(Don't put to earn) December 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Primarily worked with SQL
