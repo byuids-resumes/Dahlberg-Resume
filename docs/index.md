@@ -41,7 +41,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Bachelor of Science - Applied Technology`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Gained programming and web development skills (capitalize these bullet points to match the others)
+- Gained programming and web development skills
 - Collaborated with colleagues worldwide
 - Gained a greater appreciation for the continuing technological advancements 
 
